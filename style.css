@@ -1,0 +1,32 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  
+  background:url(header.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+hr{
+    background-color: orange;
+    height: 3px;
+    max-width: 50px;
+    border-radius: 50px;
+}
+
+
+
+#header1{
+    color: white;
+}
+
+.buffer{
+    height: 7rem;
+}
+
+.btn:hover{
+    font-size: 22px;
+}
